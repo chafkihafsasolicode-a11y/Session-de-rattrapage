@@ -1,5 +1,5 @@
 <?php
-require "verifierNote.php";
+require "Validation.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -15,4 +15,5 @@ require "verifierNote.php";
         <button type="submit" name="ok" value="ok"></button>
 </form>
 </body>
+
 </html>
